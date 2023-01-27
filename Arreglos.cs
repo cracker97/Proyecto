@@ -95,6 +95,10 @@ namespace ProcRevShell
 			fila++;
 		}
 
+
+
+
+
 		int limite6=10;
 		int contador6=0;
 		int[,] filasColumnas6=new filasColumnas6[10,10];
@@ -4597,3 +4601,4 @@ for(int fila=0; fila<limite;){
 	console.writeLine();
 	fila++;
 }
+y una polla

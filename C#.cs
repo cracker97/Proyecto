@@ -1849,6 +1849,18 @@ for(int fila=0; fila<limite;){
     Console.WriteLine();
     fila++;
 }
-int limite131=10;
-int contador131=0;
-int[,]FilasColumnas131=new int[10,10];
+
+int limite=10;
+int contador=0;
+int[,]filasColumnas=new int[10,10];
+for(int fila=0; fila<limite;){
+for(int columna=0; columna<limite;){
+contador=contador+1;
+FilasColumnas[fila,Columna]=contador;
+Console.WriteLine(filasColumnas[fila,Columna]);
+columna++:;
+}
+console.writeLine()
+fila++;
+
+}
