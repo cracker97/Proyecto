@@ -9,7 +9,7 @@ public class Class1
 		this.Edad = edad;
 
 
-
+	y una polla
 
 
 	}
