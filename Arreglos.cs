@@ -4601,4 +4601,4 @@ for(int fila=0; fila<limite;){
 	console.writeLine();
 	fila++;
 }
-y una polla
+y una polla gorda
